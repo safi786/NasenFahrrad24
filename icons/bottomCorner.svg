@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="142px" height="142px" viewbox="0 0 142 142" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L24 0L24 24L0 24L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <image width="100" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAABHNCSVQICAgIfAhkiAAAAUVJREFUeJzt3bFNw2AYRVGLihEYgAEYgAEYIIOwCUuyASXEH00iRSikjK/kczq78ZOu/Lv0sgAAALCpmXneegMnM3NY1/V7Zt633rJ7FzHORNnKlRhnL1tv250bMbwh9yZGiBghYoSIESJGiBghYoSIESJGiBghYoSIESJGiBghYoSIESJGiBghYoSIESJGiBghYoSIESJGiBghYoSIESJGiBghYoSIESJGiBghYoTMzJsYETPzuq7rlxj/e7jz856WZXm8vDEzP8uyfN55B2fXvh+n68PW23ZLlCBRgkQJEiVIlCBRgkQJEiVIlCBRgkQJEiVIlCBRgkQJEiVIlCBRgkQJEiVIlCBRgkQJEiVIlCBRgkQJEiVIlCBRgkQJEiVIlCBRgkQJEiXoRhQ/J97K3yjH4/Fj6027d44iRohjCgAA2Jtf4sVD+axK8Z4AAAAASUVORK5CYII=" id="img_1" />
+  </defs>
+  <g id="Plus-icon" transform="translate(4.000061 35)">
+    <path d="M0 0L24 0L24 24L0 24L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+  </g>
+  <use xlink:href="#img_1" fill="#FFFFFF" stroke="none" transform="matrix(0.70710677 -0.70710677 -0.70710677 -0.70710677 70.71069 141.42139)" />
+</svg>

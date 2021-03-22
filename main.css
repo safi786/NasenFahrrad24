@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #a667b6;
+}
+.calculate {
+    display: none;
+}
+
+.camera {
+    display: none;
+}
+.main {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#video, #canvas {
+    transform: rotateY(180deg);
+    border-radius: 10px;
+}
+
+.alert{
+    display: none;
+}
+/* The alert message box */
+.alert {
+    padding: 20px;
+    background-color: #a667b6; /* Red */
+    color: white;
+    /* margin-bottom: 15px; */
+    font-size: 22px;
+}
+
+/* The close button */
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+    color: black;
+}
+button, .btn {
+    background-color: #a667b6;
+    border: none;
+    margin-top: 10px;
+    color: white;
+    padding: 10px 25px;
+    font-size: 16px;
+    border-radius: 20px;
+}
